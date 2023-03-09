@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/kadit/ProjetoT-cnicas/Tecnicas/Content/Character4.png","C:/Users/kadit/ProjetoT-cnicas/Tecnicas/Content/bin/DesktopGL/Character4.xnb","TextureProcessor","Texture2DContent",1668,8817,0,1260157
+"C:/Users/kadit/ProjetoT-cnicas/Tecnicas/Content/CrateDark_Beige.png","C:/Users/kadit/ProjetoT-cnicas/Tecnicas/Content/bin/DesktopGL/CrateDark_Beige.xnb","TextureProcessor","Texture2DContent",1064,16469,0,0024728
+"C:/Users/kadit/ProjetoT-cnicas/Tecnicas/Content/EndPoint_Yellow.png","C:/Users/kadit/ProjetoT-cnicas/Tecnicas/Content/bin/DesktopGL/EndPoint_Yellow.xnb","TextureProcessor","Texture2DContent",565,4181,0,0026433
+"C:/Users/kadit/ProjetoT-cnicas/Tecnicas/Content/File.spritefont","C:/Users/kadit/ProjetoT-cnicas/Tecnicas/Content/bin/DesktopGL/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,1005945
+"C:/Users/kadit/ProjetoT-cnicas/Tecnicas/Content/WallRound_Gray.png","C:/Users/kadit/ProjetoT-cnicas/Tecnicas/Content/bin/DesktopGL/WallRound_Gray.xnb","TextureProcessor","Texture2DContent",1562,16469,0,0026639

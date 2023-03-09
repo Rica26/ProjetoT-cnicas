@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VR8j1TsVOm1DtjsCV9cPpPDVmp8x1X5tG+s4W1o6Vx7gQp4LHu3F/vHackkyeX3LdEUxjw0bRbMpK6wmBYYimg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kadit\\ProjetoT-cnicas\\Tecnicas\\Tecnicas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadit\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\kadit\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
